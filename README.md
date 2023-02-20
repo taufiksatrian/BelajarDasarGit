@@ -7,3 +7,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 
 Berikut daftar Volunter yang diterima:
 * Taufik Satria Nugraha, [Linkedin](https://www.linkedin.com/in/taufiksatrianugraha/).
+* Ali Murtadho, [Linkedin](https://www.linkedin.com/in/alimurtadho/).
